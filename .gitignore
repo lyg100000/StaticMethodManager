@@ -1,0 +1,6 @@
+**/*.csproj
+**/*.sln
+/StaticMethodUI/Library/
+/StaticMethodUI/Logs/
+/StaticMethodUI/Temp/
+**/*.vs*
